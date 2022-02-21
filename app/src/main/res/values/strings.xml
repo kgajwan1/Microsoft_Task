@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MSOA2</string>
+    <string name="profile_creation">Profile Creation</string>
+    <string name="submit">Submit</string>
+    <string name="profile_instruction">Use the form below to submit your portfolio</string>
+    <string name="profile_instruction2">An E-Mail and Password are required</string>
+    <string name="enter_password">Password</string>
+    <string name="email_address">Email Address</string>
+    <string name="first_name">First Name</string>
+    <string name="website">Website</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login">Sign In</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="signin">Take me to Sign In instead</string>
+    <string name="signup">Take me to Sign Up instead</string>
+    <string name="submit_success"> Your super-awesome portfolio has been successfully submitted! The details below will be public within your community!</string>
+    >
+    <string name="nonamestub">This was your Name!</string>
+    <string name="welcome"> Welcome to my android application</string>
+
+</resources>
